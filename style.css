@@ -1,7 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
 h1 {
     color: blue;
 }
 
 #origin {
     color: brown;
+}
+
+.name {
+    border: 3px solid black;
+    color: blue;
 }
