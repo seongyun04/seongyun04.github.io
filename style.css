@@ -4,13 +4,21 @@
 
 h1 {
     color: blue;
+    font-size: 3rem;
+    font-style: italic;
 }
 
 #origin {
     color: brown;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .name {
     border: 3px solid black;
     color: blue;
+}
+
+.all {
+    border: 3px solid blue;
 }
